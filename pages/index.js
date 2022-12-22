@@ -61,7 +61,7 @@ const Page = () => {
         </Box>
         <Section delay={0.1}>
           <Heading as="h3" variant="section-title">
-            Travaille
+            Travail
           </Heading>
           <Paragraph>
           Je suis Killian Pasche, un apprenti en informatique qui voudrait se spécialiser dans le développement web et d'exprimer des sentiments à travers des sites Web. Pour le moment j'ai pu réaliser quelque projet pour des sociétés ou bien pour des projets scolaires. Dans mes temps libres je pratique le snowboard.
